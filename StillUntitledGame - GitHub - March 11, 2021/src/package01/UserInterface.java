@@ -39,7 +39,7 @@ public class UserInterface {
 		
 		// Creating some JLabels
 		titleLabel = new JLabel();
-		titleLabel.setText("Potions Master");
+		titleLabel.setText("Still Untitled Game");
 		titleLabel.setFont(primaryFont);
 		titleLabel.setForeground(Color.WHITE);
 		fillerLabelTop = new JLabel();
